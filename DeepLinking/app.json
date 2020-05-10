@@ -1,0 +1,17 @@
+{
+  "name": "DeepLinking",
+  "displayName": "DeepLinking",
+  "expo": {
+    "name": "DeepLinking",
+    "slug": "DeepLinking",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
